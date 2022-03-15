@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Joseph
+- 👀 I’m interested in space exploration and coding
+- 🌱 I’m currently learning Java
